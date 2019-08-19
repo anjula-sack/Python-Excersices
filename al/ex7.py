@@ -11,5 +11,5 @@ if __name__ == '__main__':
     # decimal value
     dec_val = 24
 
-    # Calling function
-    DecimalToBinary(10)
+ 
+DecimalToBinary(10)
